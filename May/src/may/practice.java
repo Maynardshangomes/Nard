@@ -2,6 +2,7 @@ package may;
 
 public class practice {
 	
+	String name;	
 	String acc_num;
 	int num_units;
 	
